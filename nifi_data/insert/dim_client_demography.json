@@ -1,0 +1,22 @@
+[
+    {"age": 20, "marital_status": "Холост/Не замужем", "children_count": 0},
+    {"age": 22, "marital_status": "Холост/Не замужем", "children_count": 0},
+    {"age": 25, "marital_status": "Женат/Замужем", "children_count": 0},
+    {"age": 28, "marital_status": "Женат/Замужем", "children_count": 1},
+    {"age": 30, "marital_status": "Женат/Замужем", "children_count": 1},
+    {"age": 32, "marital_status": "Женат/Замужем", "children_count": 2},
+    {"age": 35, "marital_status": "Женат/Замужем", "children_count": 2},
+    {"age": 40, "marital_status": "Женат/Замужем", "children_count": 2},
+    {"age": 28, "marital_status": "Разведен/Разведена", "children_count": 1},
+    {"age": 35, "marital_status": "Разведен/Разведена", "children_count": 2},
+    {"age": 45, "marital_status": "Разведен/Разведена", "children_count": 2},
+    {"age": 50, "marital_status": "Вдовец/Вдова", "children_count": 2},
+    {"age": 55, "marital_status": "Вдовец/Вдова", "children_count": 3},
+    {"age": 60, "marital_status": "Вдовец/Вдова", "children_count": 3},
+    {"age": 26, "marital_status": "Холост/Не замужем", "children_count": 0},
+    {"age": 33, "marital_status": "Женат/Замужем", "children_count": 2},
+    {"age": 38, "marital_status": "Женат/Замужем", "children_count": 3},
+    {"age": 42, "marital_status": "Разведен/Разведена", "children_count": 1},
+    {"age": 48, "marital_status": "Вдовец/Вдова", "children_count": 2},
+    {"age": 52, "marital_status": "Разведен/Разведена", "children_count": 0}
+]
